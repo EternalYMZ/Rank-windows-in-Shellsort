@@ -1,0 +1,18 @@
+import Shellsort.BinnedMedianInversions
+import Shellsort.CutPassCrossings
+import Shellsort.CutZoneCrossings
+import Shellsort.DisjointConeBins
+import Shellsort.DyadicCutBudget
+import Shellsort.GapSuffixEntropy
+import Shellsort.MedianConeInversion
+import Shellsort.PackedResidueWindows
+import Shellsort.PaidResidueWindows
+import Shellsort.PrefixGapEntropy
+import Shellsort.PrefixRankSymmetrization
+import Shellsort.PrefixSlotSelectors
+import Shellsort.StrictSuffixTransportLower
+
+#check Shellsort.PrefixRankSymmetrization.uniform_next_inversions
+#print axioms Shellsort.PrefixRankSymmetrization.uniform_next_inversions
+#check Shellsort.PrefixRankSymmetrization.uniform_next_comparisons
+#print axioms Shellsort.PrefixRankSymmetrization.uniform_next_comparisons
