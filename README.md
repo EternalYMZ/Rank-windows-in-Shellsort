@@ -19,4 +19,4 @@ Additional executable check: after the build, run `lake env lean SixSlotExample.
 
 ## Proof guide
 
-[Read the proof idea in Chinese](brief.md). The guide explains the mathematical claim and the scope of the Lean results linked above.
+[Read the proof guide](brief.md). The guide explains the mathematical claim and the scope of the Lean results linked above.
