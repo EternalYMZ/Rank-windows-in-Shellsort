@@ -16,3 +16,7 @@ lake build
 [Shellsort.lean](Shellsort.lean) imports the included modules and prints the selected statements and their axioms. Sources and dependency revisions are pinned. Supporting modules may also occur in other paper repositories.
 
 Additional executable check: after the build, run `lake env lean SixSlotExample.lean`. See [SixSlotExample.lean](SixSlotExample.lean).
+
+## Proof guide
+
+[Read the proof idea in Chinese](brief.md). The guide explains the mathematical claim and the scope of the Lean results linked above.
